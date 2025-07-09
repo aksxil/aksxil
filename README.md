@@ -6,6 +6,9 @@
 # 💫 About Me:
 🧑‍💻 I'm a passionate **MERN Stack Developer** with a strong eye for design and animation.<br>🎨 I blend creativity and functionality by using **GSAP** and **Framer Motion** in all my projects.<br> 💼 I’ve completed **10+ freelance projects** for modern company websites & portfolios.<br> 📈 Currently working on a **Story Streaming Platform** and **CareerHub – Job Portal**.
 
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGR1dm1uMTJtZHd2aWh4aW9taXYwbXA5YzhubGdjOHV2YmV5MXg5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OumCa12QC9CIvBe2c1/giphy.gif" alt="cover" width="100%" />
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aakash-nishad/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AakashN93722469) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](@https://www.youtube.com/@aksxilcoding) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aksx3u@gmail.com) 
