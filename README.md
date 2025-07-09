@@ -6,7 +6,7 @@
 # 💫 About Me:
 🧑‍💻 I'm a passionate **MERN Stack Developer** with a strong eye for design and animation.<br>🎨 I blend creativity and functionality by using **GSAP** and **Framer Motion** in all my projects.<br> 💼 I’ve completed **10+ freelance projects** for modern company websites & portfolios.<br> 📈 Currently working on a **Story Streaming Platform** and **CareerHub – Job Portal**.
 
-<p align="center">
+<p>
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGR1dm1uMTJtZHd2aWh4aW9taXYwbXA5YzhubGdjOHV2YmV5MXg5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OumCa12QC9CIvBe2c1/giphy.gif" alt="cover" width="20%" />
 </p>
 
