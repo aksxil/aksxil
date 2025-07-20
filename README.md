@@ -1,7 +1,8 @@
 <!-- Cover Image -->
 <p align="center">
-  <img src="https://github.com/aksxil/aksxil/blob/main/LinkedIn.png" alt="cover" width="100%" />
+  <img src="https://github.com/aksxil/aksxil/blob/main/cover-video.gif" alt="animated cover" width="100%" />
 </p>
+
 
 # 💫 About Me:
 🧑‍💻 I'm a passionate **MERN Stack Developer** with a strong eye for design and animation.<br>🎨 I blend creativity and functionality by using **GSAP** and **Framer Motion** in all my projects.<br> 💼 I’ve completed **10+ freelance projects** for modern company websites & portfolios.<br> 📈 Currently working on a **Story Streaming Platform** and **CareerHub – Job Portal**.
